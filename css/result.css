@@ -1,0 +1,30 @@
+#result{
+    display: none;
+    background-color: #f5cae6;
+    width: 90%;
+    text-align: center;
+    font-size: 50px;
+    border: 0px;
+}
+
+.point {
+  font-size: 40px;
+}
+
+.resultname{
+  font-size: 35px;
+}
+
+.resultDesc{
+  font-size: 25px;
+}
+
+.comment {
+  
+  font-size: 25px;
+  text-align: left;
+  
+}
+.comment>p{
+  background-color: greenyellow;
+}

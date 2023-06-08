@@ -1,0 +1,23 @@
+#main{
+    background-color: #f5cae6;
+    width: 90%;
+    text-align: center;
+    font-size: 50px;
+    border: 0px;
+}
+
+h3{
+
+    font-size: 50px;
+}
+
+p{
+    font-size: 40px;
+}
+
+button {
+    margin: 120px;
+    width: 300px;
+    height: 100px;
+    font-size: 35px;
+}
